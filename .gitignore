@@ -3,3 +3,6 @@
 # day 1
 *.exe
 *.bat
+
+# day 3
+*.class

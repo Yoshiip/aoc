@@ -8,7 +8,7 @@ Repo github où je vais essayer de mettre chaque exercice de l'AOC 2023 j'espèr
 | :------ |:-----------:| -------------:|
 | Jour 1  | C++         |      Oui      |
 | Jour 2  | Ruby        |      Oui      |
-| Jour 3  |             |               |
+| Jour 3  | Java        |      Oui      |
 | Jour 4  |             |               |
 | Jour 5  |             |               |
 | Jour 6  |             |               |
