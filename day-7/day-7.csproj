@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>day_7</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>Part2</StartupObject>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

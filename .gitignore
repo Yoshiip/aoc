@@ -6,3 +6,7 @@
 
 # day 3
 *.class
+
+# day 7
+obj/
+bin/
