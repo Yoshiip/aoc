@@ -1,4 +1,5 @@
 .vscode
+*.sln
 
 # day 1
 *.exe
