@@ -11,3 +11,6 @@
 # day 7
 obj/
 bin/
+
+#day 9
+*.dll

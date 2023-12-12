@@ -14,7 +14,7 @@ Repo github où je vais essayer de mettre chaque exercice de l'AOC 2023 j'espèr
 | Jour 6  |  Julia  |      Oui |
 | Jour 7  |   C#    |      Oui |
 | Jour 8  |  Dart   |      Oui |
-| Jour 9  |         |          |
+| Jour 9  |   Lua   |      Oui |
 | Jour 10 |         |          |
 | Jour 11 |         |          |
 | Jour 12 |         |          |
